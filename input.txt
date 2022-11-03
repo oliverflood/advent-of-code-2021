@@ -1,0 +1,23 @@
+BBDD
+DCBA
+DBAC
+CAAC
+
+BCBD
+DCBA
+DBAC
+ADCA
+
+Example part 1
+BCBD
+ADCA
+
+My part 2
+BBDD
+DCBA
+DBAC
+CAAC
+
+My part 1
+BBDD
+CAAC
